@@ -20,11 +20,13 @@ Functions:
 Testing StringConcatenate:
 
 String 1:                   “I am a student” 
+
 String 2:                   “ of CP in FAST-NU” 
 
 After Concatenation:
 
 String 1:                              “I am a student of CP in FAST-NU”
+
 String 2:                               “of CP in FAST-NU”
 ------------------------------------------------------------------------------------------------------------
 
